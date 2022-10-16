@@ -1,0 +1,304 @@
+.frame1-frame1 {
+  width: 100%;
+  height: 720px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame1-background1 {
+  top: 690.7996215820312px;
+  left: 1080.193115234375px;
+  width: 1079px;
+  height: 692px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-text {
+  top: 48px;
+  left: 276px;
+  color: rgba(0, 18, 117, 1);
+  width: 529px;
+  height: auto;
+  position: absolute;
+  font-size: 38px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Calibri;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-rectangle3 {
+  top: 691px;
+  left: 0px;
+  width: 1080px;
+  height: 29px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-text02 {
+  top: 694px;
+  left: 334px;
+  color: rgba(0, 0, 0, 1);
+  width: 413px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-text07 {
+  top: 105px;
+  left: 329px;
+  color: rgba(0, 0, 0, 1);
+  width: 423px;
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Kanit;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-text09 {
+  top: 148px;
+  left: 329px;
+  color: rgba(0, 0, 0, 1);
+  width: 423px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Kanit;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-rectangle7 {
+  top: 223px;
+  left: 416px;
+  width: 582px;
+  height: 323px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.frame1-text11 {
+  top: 258px;
+  left: 442px;
+  color: rgba(0, 0, 0, 1);
+  width: 172px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-text13 {
+  top: 324px;
+  left: 442px;
+  color: rgba(0, 0, 0, 1);
+  width: 172px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-rectangle5 {
+  top: 252px;
+  left: 626px;
+  width: 341px;
+  height: 37px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.frame1-rectangle6 {
+  top: 318px;
+  left: 626px;
+  width: 341px;
+  height: 37px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.frame1-text15 {
+  top: 378px;
+  left: 671px;
+  color: rgba(0, 0, 0, 1);
+  width: 252px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-vector {
+  top: 380px;
+  left: 626px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+}
+.frame1-text17 {
+  top: 502px;
+  left: 777px;
+  color: rgba(0, 0, 255, 1);
+  width: 204px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.frame1-frame {
+  top: 424px;
+  left: 626px;
+  width: 128px;
+  height: 56px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.frame1-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-text19 {
+  color: rgba(255, 255, 255, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-frame1 {
+  top: 424px;
+  left: 788px;
+  width: 161px;
+  height: 56px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.frame1-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 161px;
+  height: 56px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-text21 {
+  color: rgba(255, 255, 255, 1);
+  width: 161px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-vector1 {
+  top: 223px;
+  left: 83px;
+  width: 258px;
+  height: 323px;
+  position: absolute;
+}
